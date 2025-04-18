@@ -14,3 +14,14 @@ git status
 git restore testing.py
 clear
 git status
+
+git remote add origin 
+git tremote -v
+git status 
+clear
+git remote -v
+git remote set-url origin 
+clear
+git remote -v
+git push origin master
+clear
