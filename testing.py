@@ -5,3 +5,7 @@ print("How are you everyone ??")
 print("Hello")
 
 print("Hi guys")
+
+
+
+print("new data 20")
